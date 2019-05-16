@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![](https://img.shields.io/badge/python-3.7.0-orange.svg)](https://www.python.org/downloads/release/python-370/)
 [![](https://img.shields.io/badge/django-2.1-green.svg)](https://docs.djangoproject.com/en/2.1/releases/2.1/)
 [![](https://img.shields.io/badge/bootstrap-4.1.3-blue.svg)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
@@ -128,3 +129,7 @@ python manage.py runserver
 ## 联系方式
 - 简单问题，请在[杜赛的个人网站](https://www.dusaiphoto.com)留言
 - 复杂问题，请Email私信我：dusaiphoto@foxmail.com
+=======
+# blog
+Django blog
+
